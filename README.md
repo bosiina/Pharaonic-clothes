@@ -1,2 +1,2 @@
-# Pharaonic-clothes
-new site about anew clothes brand in pharaonic style and modern type
+# js-cart-setup
+ADD ITEMS TO CART JAVASCRIPT PROJECT
